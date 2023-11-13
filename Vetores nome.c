@@ -8,7 +8,7 @@ int main (){
 
 //variavel
 int idade [5];
-char s [200] [5];
+char s [5] [200];
 int i;
 
 for ( i = 0; i < 5; i++)

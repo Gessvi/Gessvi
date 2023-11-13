@@ -18,7 +18,9 @@ for ( i = 0; i < 5; i++)
     
     printf ("Idade %iº:", i+1);
     scanf ("%i", &idade[i]);
-	
+
+	printf (" \n ");
+
 	fflush (stdin);
 }
 

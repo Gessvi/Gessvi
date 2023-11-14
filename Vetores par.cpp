@@ -11,7 +11,7 @@ int main () {
 	int par;
 	int impar;
 	
-for (i = 0; i < 5; i++)
+for (i = 0; i < 6; i++)
 	{
 		printf ("Insira o numero:", i + 1);
 		scanf ("%d", &numero[i]);

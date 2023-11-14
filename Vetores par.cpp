@@ -13,7 +13,7 @@ int main () {
 	
 for (i = 0; i < 5; i++)
 	{
-		printf ("Insira o numero");
+		printf ("Insira o numero:", i + 1);
 		scanf ("%d", &numero[i]);
 		
 		if (numero[i] % 2 == 0)

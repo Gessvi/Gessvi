@@ -14,8 +14,8 @@ int main (){
 	
 	for (i = 0; i < 5; i++)
 	{
-		printf ("Insira o numero:"), i+1;
-		scanf ("%d", numero[5]);
+		printf ("Insira o numero:", i + 1);
+		scanf ("%d", numero[i]);
 		
 		maior = maior > numero[i] ? maior : numero[i];
 		menor = menor < numero[i] ?  menor : numero[i];

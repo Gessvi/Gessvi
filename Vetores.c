@@ -4,25 +4,28 @@
 #include <locale.h>
 
 int main (){
-	setlocale (LC_ALL, "portuguese");
 
-//Variaveis
-int vetor [3];
 int i;
+int par[6];
 
-//Operacao
-for ( i = 0; i < 3; i++)
+for ( i = 0; i < 6; i++)
 {
-    printf ("Nota %d:", i+1);
-    scanf ("%d", &vetor[i]);
+    printf ("Insira %d  numero:", i + 1);
+    scanf ("%d", &par[i]);
+
+while ( par[i] % 2 == 1 || par[i] <= 0)
+{
+    printf("Apenas Numeros Positivos e Pares: \n");
+    scanf ("%d", &par[i]);
 }
 
-for (i = 0; i < 3; i++)
+for (i = 5; i >= 0; i--)
 {
-    printf ("Elemento [%d]: %d \n", i + 1, vetor[i]);
+    printf ("%d \n", par[i]);
 }
 
 
+}
 
 return 0;
 }

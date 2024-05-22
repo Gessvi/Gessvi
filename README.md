@@ -19,7 +19,7 @@
 
 ### Main skills:
 ![C](https://img.shields.io/badge/C-797d80?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-797d80?style=for-the-badge&logo=C++&logoColor=blue).
+![C++](https://img.shields.io/badge/C++-797d80?style=for-the-badge&logo=C++&logoColor=blue);
 
 ### Studying in this moment:
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;

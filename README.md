@@ -20,10 +20,10 @@
 ### Main skills:
 ![C](https://img.shields.io/badge/C-797d80?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=C++&logoColor=blue)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f24088&height=120&section=footer"/>
